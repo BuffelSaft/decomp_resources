@@ -11,11 +11,11 @@ and include data for every Pokemon and form in the game.
 - Level up moves
 - Egg moves
 - Base stats
+- Pokedex entries
 
 
 **Files that will be added in future are:**
 
 
-- Pokedex entries
 - TM, HM and Tutor compatibility
 - High quality cries
