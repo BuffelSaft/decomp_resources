@@ -5,26 +5,17 @@ using a modified pk3DS,
 and include data for every Pokemon and form in the game.
 
 
-Currently included files are:
+**Currently included files are:**
 
 
-Level up moves
+- Level up moves
+- Egg moves
+- Base stats
 
 
-Egg moves
+**Files that will be added in future are:**
 
 
-Base stats
-
-
-
-Files that will be added in future are:
-
-
-Pokedex entries
-
-TM, 
-HM and Tutor compatibility
-
-
-High quality cries
+- Pokedex entries
+- TM, HM and Tutor compatibility
+- High quality cries
