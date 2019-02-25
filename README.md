@@ -14,6 +14,7 @@ and include data for every Pokemon and form in the game. Please see this thread 
 - Pokedex entries
 - Species names
 - High quality cries
+- Evolution data
 
 
 **Files that will be added in future are:**
