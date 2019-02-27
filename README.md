@@ -9,6 +9,7 @@ and include data for every Pokemon and form in the game. Please see this thread 
 
 
 - Level up moves
+- Level up move pointers
 - Egg moves
 - Base stats
 - Pokedex entries
